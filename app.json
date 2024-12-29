@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "meuapp",
-    "slug": "meuapp",
+    "name": "app-biscoitoDaSorte",
+    "slug": "app-biscoitoDaSorte",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
